@@ -1,4 +1,4 @@
-Sales Analysis Dashboard
+Sales Analysis Dashboard (https://public.tableau.com/app/profile/premchand.m/viz/CustomerAnalysisDashboard_17067653218940/SalesAnalysisDashboard)
 Description
 This project contains a Tableau-based Sales Analysis Dashboard that provides insights into sales performance across various dimensions, such as revenue trends, regional performance, customer payment preferences, and product category revenue.
 
